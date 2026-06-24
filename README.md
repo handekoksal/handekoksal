@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Hande and I'm from Türkiye. I'm a 2nd year at Bilkent University.
+I'm Hande and I'm from Türkiye. I'm a 3rd year at Bilkent University.
 <!--
 **handekoksal/handekoksal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
